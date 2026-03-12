@@ -35,7 +35,6 @@ backend/data/*
 !backend/data/README.md
 
 # Virtual environments
-.env
 .venv
 env/
 venv/
@@ -60,12 +59,9 @@ frontend/.svelte-kit/
 frontend/build/
 
 # Environment files
-.env
-.env.local
 .env.*.local
 
 # IDE
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -99,3 +95,4 @@ coverage/
 *.tmp
 *.temp
 /temp
+config.bat
