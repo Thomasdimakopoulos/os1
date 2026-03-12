@@ -37,4 +37,4 @@ export default [
 			'src/lib/api/types.ts',
 		],
 	},
-]
+];
