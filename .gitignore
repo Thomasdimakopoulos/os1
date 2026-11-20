@@ -95,4 +95,6 @@ coverage/
 *.tmp
 *.temp
 /temp
-config.bat
+
+.env
+.env.local
